@@ -158,14 +158,14 @@ PRDBench/
 Our paper is available now in [arxiv](https://arxiv.org/abs/2510.24358). If you use PRDBench in your research, please cite our paper:
 
 ```bibtex
-@misc{fu2025automaticallybenchmarkingllmcode,
-      title={Automatically Benchmarking LLM Code Agents through Agent-Driven Annotation and Evaluation}, 
-      author={Lingyue Fu and Bolun Zhang and Hao Guan and Yaoming Zhu and Lin Qiu and Weiwen Liu and Xuezhi Cao and Xunliang Cai and Weinan Zhang and Yong Yu},
-      year={2025},
-      eprint={2510.24358},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2510.24358}, 
+@inproceedings{Fu2026, series={AAMAS},
+   title={Automatically Benchmarking LLM Code Agents through Agent-driven Annotation and Evaluation},
+   url={http://dx.doi.org/10.65109/HJFB4234},
+   DOI={10.65109/hjfb4234},
+   booktitle={Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems},
+   publisher={International Foundation for Autonomous Agents and Multiagent Systems},
+   author={Fu, Lingyue and Zhang, Bolun and Guan, Hao and Zhu, Yaoming and Qiu, Lin and Liu, Weiwen and Cao, Xuezhi and Cai, Xunliang and Zhang, Weinan and Yu, Yong},
+   collection={AAMAS} }
 }
 ```
 
